@@ -4,4 +4,4 @@ order : 1
 ---
 
 
-# chapitre
+# chapiter
